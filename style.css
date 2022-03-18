@@ -1,0 +1,30 @@
+body{
+	background-image: url("peace.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+
+p{
+	border-left: solid;
+	border-right: solid;
+	border-width: 5px;
+	border-radius: 10px;
+	border-color: lightblue;
+}
+
+
+a{
+	background-color: orange;
+	margin: 50px;
+	padding: 10px;
+	color: white;
+	border-radius: 10px;
+	cursor: pointer;
+	text-decoration: none;
+
+}
+
+
+
